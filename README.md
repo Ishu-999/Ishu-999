@@ -8,7 +8,7 @@
 
 <p>
 - 🔭 I’m currently working on **React.js & Webflow Projects**<br>
-- 🌱 I’m currently learning **Webflow & WordPress**<br>
+- 🌱 I’m currently learning **Webflow & Framer**<br>
 - 💬 Ask me about **React.js, CSS, Tailwind, Bootstrap, Webflow, Designing**<br>
 - 📫 How to reach me **ishudeveloper@gmail.com**<br>
 </p>
